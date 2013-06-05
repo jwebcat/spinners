@@ -5,7 +5,7 @@ Simple CSS3 rotation animations.
 Getting started with Spinners is really easy. [View the online tutorial](http://cferdinandi.github.com/spinners/) or dig through the `index.html` file.
 
 ## Changelog
-* 3/7/2013
+* v1.0 (March 7, 2013)
   * Initial release.
 
 ## License
